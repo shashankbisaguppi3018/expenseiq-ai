@@ -1,0 +1,6 @@
+python_app/.env
+python_app/venv/
+python_app/__pycache__/
+python_app/**/*.pyc
+python_app/*.log
+python_app/.streamlit/secrets.toml
